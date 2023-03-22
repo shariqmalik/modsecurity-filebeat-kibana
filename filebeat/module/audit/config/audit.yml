@@ -4,7 +4,6 @@ paths:
  - {{$path}}
 {{ end }}
 exclude_files: [".gz$"]
-tags: {{.tags}}
 
 json.keys_under_root: false
 
